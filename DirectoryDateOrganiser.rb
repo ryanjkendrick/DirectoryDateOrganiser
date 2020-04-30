@@ -20,7 +20,7 @@ end
 if ARGV.length < 1
     puts "Too few arguments!"
     exit
-  end
+end
 
 puts "Welcome to the Directory Date Organiser!" 
 
