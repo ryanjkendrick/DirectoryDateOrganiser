@@ -1,3 +1,3 @@
 # DirectoryDateOrganiser
 
-Just wanted organise my media folders from DDMMYYY to YYYYMMDD format quickly.
+Just wanted to organise my media folders from DDMMYYY to YYYYMMDD format quickly.
